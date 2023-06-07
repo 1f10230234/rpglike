@@ -27,14 +27,14 @@ ban_eventlist = {
     0:"20304021314151324252625363736474/0313234353637304142444546474"
 }
 
-def move_map(map,de,wide):
+#def move_map(map,de,wide):
 
 
 
-def select(mouse_x,mouse_y):
-    global condition
-    if condition == 2:
-        react
+#def select(mouse_x,mouse_y):
+#    global condition
+#    if condition == 2:
+#        react
 
 
 def ban_event(i,j):
@@ -122,7 +122,7 @@ def controll(mouse_x,mouse_y):
                 break
             m.move_animation(global_i,global_j,0.5,de)
 
-            if condition == -1:
+#            if condition == -1:
 
             
             print(a,b,c,d)
